@@ -1,0 +1,28 @@
+.bg-img{
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.contact-bg{
+background-color: antiquewhite;
+}
+input{
+    height: 20px;
+    width: 461;
+}
+
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    }
